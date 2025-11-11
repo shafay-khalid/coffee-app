@@ -4,9 +4,9 @@ A fully responsive Coffee Shop Website built with React.
 This project is part of my React learning journey (just 15 days in 🚀) and turned out to be one of the best projects I’ve made so far.
 
 ### 🌐 Live Demo:<br>
-🔗 https://cofetto.vercel.app
+🔗 https://coffee-app-lyart.vercel.app/
 ### 💻 Repository: 
-🔗 https://github.com/shafay-khalid/coffee-website-react/
+🔗 https://github.com/shafay-khalid/coffee-app/
 
 ## 📌 Features
 
@@ -45,10 +45,10 @@ Vercel – Deployment
 ## 🚀 How to Run Locally
 
 ### Clone the repo
-git clone https://github.com/shafay-khalid/coffee-website-react.git
+git clone https://github.com/shafay-khalid/coffee-app.git
 
 ### Navigate to project
-cd coffee-website-react
+cd coffee-app
 
 ### Install dependencies
 npm install
